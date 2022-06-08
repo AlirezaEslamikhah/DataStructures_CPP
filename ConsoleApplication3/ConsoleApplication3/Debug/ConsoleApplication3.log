@@ -1,0 +1,6 @@
+﻿  major_element.cpp
+C:\Users\lenovo\source\repos\ConsoleApplication3\ConsoleApplication3\major_element.cpp(41,38): warning C4101: 'c21': unreferenced local variable
+C:\Users\lenovo\source\repos\ConsoleApplication3\ConsoleApplication3\major_element.cpp(41,43): warning C4101: 'c22': unreferenced local variable
+C:\Users\lenovo\source\repos\ConsoleApplication3\ConsoleApplication3\major_element.cpp(41,28): warning C4101: 'c11': unreferenced local variable
+C:\Users\lenovo\source\repos\ConsoleApplication3\ConsoleApplication3\major_element.cpp(41,33): warning C4101: 'c12': unreferenced local variable
+  ConsoleApplication3.vcxproj -> C:\Users\lenovo\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe

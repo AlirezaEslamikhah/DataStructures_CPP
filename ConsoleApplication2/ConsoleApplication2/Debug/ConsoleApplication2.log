@@ -1,0 +1,2 @@
+﻿Source.obj : error LNK2005: _main already defined in ConsoleApplication2.obj
+C:\Users\lenovo\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe : fatal error LNK1169: one or more multiply defined symbols found

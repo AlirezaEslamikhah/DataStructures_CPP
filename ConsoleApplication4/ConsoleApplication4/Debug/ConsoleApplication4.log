@@ -1,0 +1,9 @@
+﻿  Source3.cpp
+  Source4.cpp
+  Generating Code...
+Source.obj : error LNK2005: _main already defined in ConsoleApplication4.obj
+Source1.obj : error LNK2005: _main already defined in ConsoleApplication4.obj
+Source2.obj : error LNK2005: _main already defined in ConsoleApplication4.obj
+Source4.obj : error LNK2005: _main already defined in ConsoleApplication4.obj
+Source5.obj : error LNK2005: _main already defined in ConsoleApplication4.obj
+C:\Users\lenovo\source\repos\ConsoleApplication4\Debug\ConsoleApplication4.exe : fatal error LNK1169: one or more multiply defined symbols found
